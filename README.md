@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Dexter's Labratory</title>
+	<title>Jahzmin Francis</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
