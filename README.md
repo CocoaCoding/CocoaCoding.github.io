@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<header>
 	<title>Jahzmin Francis</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
-</head>
+</header>
 
 <body>
 	<header>
