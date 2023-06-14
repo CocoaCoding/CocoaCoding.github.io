@@ -2,7 +2,7 @@
 <html>
 
 <header>
-	<title>Jahzmin Francis</title>
+	<h1>Jahzmin Francis<h1/>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </header>
 
